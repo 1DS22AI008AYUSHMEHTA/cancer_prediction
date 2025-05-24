@@ -55,5 +55,5 @@ This is a **binary classification problem** tackled using **Random Forest**, a r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/1DS22AI008AYUSHMEHTA/cancer-prediction-app.git
+git clone https://github.com/1DS22AI008AYUSHMEHTA/cancer_prediction.git
 cd cancer-prediction-app
