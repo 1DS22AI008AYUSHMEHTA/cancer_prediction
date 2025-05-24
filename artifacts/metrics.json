@@ -1,15 +1,37 @@
-{
-    "Accuracy": 0.9533333333333334,
-    "AUROC": 0.9444444444444444,
-    "F1Score": 0.9411764705882353,
-    "ConfusionMatrix": [
-        [
-            87,
-            0
-        ],
-        [
-            7,
-            56
-        ]
-    ]
-}
+[
+    {
+        "Model": "RandomForest",
+        "Accuracy": 0.9533,
+        "Precision": 1.0,
+        "F1 Score": 0.9412,
+        "ROC-AUC": 0.9608
+    },
+    {
+        "Model": "LogisticRegression",
+        "Accuracy": 0.86,
+        "Precision": 0.8889,
+        "F1 Score": 0.8205,
+        "ROC-AUC": 0.9434
+    },
+    {
+        "Model": "KNN",
+        "Accuracy": 0.9333,
+        "Precision": 0.9649,
+        "F1 Score": 0.9167,
+        "ROC-AUC": 0.9465
+    },
+    {
+        "Model": "SVM",
+        "Accuracy": 0.9133,
+        "Precision": 0.9808,
+        "F1 Score": 0.887,
+        "ROC-AUC": 0.9639
+    },
+    {
+        "Model": "DecisionTree",
+        "Accuracy": 0.88,
+        "Precision": 0.9412,
+        "F1 Score": 0.8421,
+        "ROC-AUC": 0.8637
+    }
+]

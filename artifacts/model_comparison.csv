@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,F1 Score,ROC-AUC
+RandomForest,0.9533,1.0,0.9412,0.9608
+LogisticRegression,0.86,0.8889,0.8205,0.9434
+KNN,0.9333,0.9649,0.9167,0.9465
+SVM,0.9133,0.9808,0.887,0.9639
+DecisionTree,0.88,0.9412,0.8421,0.8637
